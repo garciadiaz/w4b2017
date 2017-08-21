@@ -3,4 +3,4 @@
 Now I'm making my own edit. Again.ererer. testtest
 
 ___
-live at https://github.com/garciadiaz/w4b2017
+live at https://garciadiaz.github.io/w4b2017
