@@ -17,3 +17,5 @@ x.size=y.size=10;
 x.onkeyup=y.onkeyup= function(ev){
     z.textContent=parseFloat(x.value)+ parseFloat(y.value);
     };
+
+x.onkeypress = function(){firstName.textContent ="no"};
