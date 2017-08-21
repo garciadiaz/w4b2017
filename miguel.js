@@ -15,5 +15,5 @@ x.size=5; (changes the size of the box)
 
 x.size=y.size=10;
 x.onkeyup=y.onkeyup= function(ev){
-    z.textContent=parseFloat('x.value')+ parseFloat('y.value');
+    z.textContent=parseFloat(x.value)+ parseFloat(y.value);
     };
